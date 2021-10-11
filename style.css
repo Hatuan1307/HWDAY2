@@ -1,0 +1,19 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box; 
+}
+.formBox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 283px;
+   
+}
+.box{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 10px;
+}
